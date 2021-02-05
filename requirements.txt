@@ -1,5 +1,5 @@
 telethon
 aiohttp
 motor 
-heroku-20
+heroku3
 pillow
