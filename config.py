@@ -1,5 +1,5 @@
 from sample_config import Config
-
+ import Sibyl_System.config
 
 class Development(Config):
   # REQUIRED
