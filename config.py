@@ -1,4 +1,4 @@
-from Sibyl_System import Config
+import Sibyl_System.config as Config
 
 class Development(Config):
   # REQUIRED
