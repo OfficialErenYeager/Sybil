@@ -1,6 +1,6 @@
 import Sibyl_System.config as Config
 
-class Development(Config):
+
   # REQUIRED
     API_ID_KEY = "1979859"
     API_HASH_KEY = "2d8efd791d4ae887c2411aee30f3542e"  
