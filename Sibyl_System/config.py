@@ -1,5 +1,4 @@
-class Config(object):
-    LOGGER = True
+import Sibyl_System.config as Config
 
     # REQUIRED
     API_ID_KEY = "1979859"
@@ -18,3 +17,4 @@ class Production(Config):
 
 class Development(Config):
     LOGGER = True
+
